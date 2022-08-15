@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mhgarrett
-- 👀 I’m interested in text mining, sentiment analysis, and speech recognition. 
-- 🌱 I’m currently learning python coding.
-- 💞️ I’m looking to collaborate on text mining and speech tagging. 
+- 👀 My specialty has been in English as a second language phonology and phonetics. I have also experience working with text transcription and annotation with natural language with different accents for the last 9 years. I am looking to become a data scientist/linguist with a concentration on speech recognition, text-mining, sentiment analysis, and ontology building. 
+- 🌱 I’m currently learning ML with Python and R. I am also working on improving my skills database management using SQL and Excel. 
+- 💞️ I’m looking to collaborate on text mining and speech annotation and tagging. 
 - 📫 How to reach me: https://www.linkedin.com/in/meichanhuang/ 
 
 <!---
