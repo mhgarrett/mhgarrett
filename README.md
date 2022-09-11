@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Meichan, a linguist specializing in English phonology and phonetics. 💻 I am working with speech annotation with natural language for the last 9 years </div>  
+### <div align="center">👨‍💻  I'm Meichan, a linguist specializing in English phonology and phonetics. I'm working with speech annotation with natural language for the last 9 years </div>  
   
 
 - 🚀 I want to become a data scientist/linguist specializing in speech recognition, text mining, sentiment analysis, and ontology building.   
@@ -18,9 +18,6 @@
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
-
-
-### Frontend  
 <div align="center">  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 <a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" /></a>  
