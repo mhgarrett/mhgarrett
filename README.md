@@ -3,10 +3,10 @@
 </div>  
   
 
-### <div align="center">I'm Meichan, a linguist specializing in English phonology and phonetics. 👨‍💻 working with speech annotation with natural language for the last 9 years 🚀</div>  
+### <div align="center">I'm Meichan, a linguist specializing in English phonology and phonetics. 💻 I am working with speech annotation with natural language for the last 9 years </div>  
   
 
-- 🔭 I want to become a data scientist/linguist specializing in speech recognition, text mining, sentiment analysis, and ontology building.   
+-  I want to become a data scientist/linguist specializing in speech recognition, text mining, sentiment analysis, and ontology building 🚀.   
   
 
 - 🌱 I’m currently learning ML with Python and R. I am also working on improving my skills database management using SQL and Excel.   
